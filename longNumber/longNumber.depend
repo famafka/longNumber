@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1512239015 source:c:\users\Марк\documents\github\longnumber\longnumber\deque_ops.cpp
+	<deque>
+
+1512239229 source:c:\users\Марк\documents\github\longnumber\longnumber\longnumber.cpp
+	<deque>
+	<string>
+	"longNumber.h"
+	"deque_ops.h"
+	<algorithm>
+	<iostream>
+
+1512239040 source:c:\users\Марк\documents\github\longnumber\longnumber\main.cpp
+	"longNumber.h"
+	<bits/stdc++.h>
+
+1512239225 c:\users\Марк\documents\github\longnumber\longnumber\longnumber.h
+	<deque>
+	<string>
+
+1512238987 c:\users\Марк\documents\github\longnumber\longnumber\deque_ops.h
+	<deque>
+
